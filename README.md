@@ -27,3 +27,6 @@ Replace the `panorama.jpg` with your equirectangular image and ensure the image 
 
 ## Contributing
 Contributions to enhance the viewer are welcome. Please fork the repository, make your changes, and submit a pull request.
+
+## License
+## This project is licensed under the MIT License.
