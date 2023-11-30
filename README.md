@@ -6,6 +6,11 @@ Burak Eryılmaz - Senior Software Engineer, Founder of 1002Labs
 ## Description
 This repository hosts a 360-degree image viewer for Shopify stores, developed using Three.js. It's crafted to provide an immersive shopping experience, presenting products in panoramic views.
 
+
+## Live Demo
+### Experience the project live at: [Cursor-Following 3D Human Figure Live Demo](https://eryilmazburak.github.io/360-degree-image-viewer/)
+
+
 ## Features
 - Full 360-degree viewability
 - Seamless image transitions
