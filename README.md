@@ -8,7 +8,7 @@ This repository hosts a 360-degree image viewer for Shopify stores, developed us
 
 
 ## Live Demo
-### Experience the project live at: [Cursor-Following 3D Human Figure Live Demo](https://eryilmazburak.github.io/360-degree-image-viewer/)
+### Experience the project live at: [360-degree-image-viewer Live Demo](https://eryilmazburak.github.io/360-degree-image-viewer/)
 
 
 ## Features
